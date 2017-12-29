@@ -10,4 +10,4 @@ Categories=Core;FileManager;GNOME;GTK;System;System-Tools;Utilities;
 Keywords=root;administrator;folder;manager;explore;disk;filesystem;cinnamon;
 MimeType=inode/directory;application/x-gnome-saved-search;
 StartupNotify=true
-Terminal=false
+Terminal=true
